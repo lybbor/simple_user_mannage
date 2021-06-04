@@ -1,0 +1,10 @@
+INSERT INTO `users` VALUES (23, 'x', '123', '女', 23, 2, 0);
+INSERT INTO `users` VALUES (66, 'k', '6666', '男', 23, 2, 2);
+INSERT INTO `users` VALUES (67, '让我康康', '666666', '男', 21, 1, 1);
+INSERT INTO `users` VALUES (70, '蔡旭昆', '666', '男', 25, 2, 2);
+INSERT INTO `users` VALUES (73, '蔡菜子', '888', '男', 28, 2, 2);
+INSERT INTO `users` VALUES (74, '蔡子', '888', '男', 28, 2, 2);
+INSERT INTO `users` VALUES (75, '蔡a', '888', '男', 28, 2, 2);
+INSERT INTO `users` VALUES (77, 'k', '666', '女', 12, 1, 3);
+INSERT INTO `users` VALUES (78, '69', '6969', '男', 21, 1, 2);
+INSERT INTO `users` VALUES (79, '小二', '2222', '男', 56, 4, 4);
